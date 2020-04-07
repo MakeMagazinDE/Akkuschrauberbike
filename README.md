@@ -12,7 +12,7 @@ Geht das wirklich – ein E-Bike selbst bauen? Noch dazu mit einem zweckentfremd
 
 ![Picture](https://github.com/MakeMagazinDE/Akkuschrauberbike/blob/master/Bike.JPG)
 
-Hier gibt es die Schaltpläne sowie den Arduino-Code zum Download. Die beiden vollständigen Artikel zum Projekt gibt es in der **[Make-Ausgabe 1/20 ab Seite 80](https://www.heise.de/select/make/2020/1/1582901384120081)** und in der **[Make-Ausgabe 2/20 ab Seite 82](https://www.heise.de/select/make/2020/2)** zu lesen.
+Hier gibt es die Schaltpläne sowie den Arduino-Code zum Download. Die beiden vollständigen Artikel zum Projekt gibt es in der **[Make-Ausgabe 1/20 ab Seite 80](https://www.heise.de/select/make/2020/1/1582901384120081)** und ab 16. April 2020 in der **[Make-Ausgabe 2/20 ab Seite 82](https://www.heise.de/select/make/2020/2/1587492321267806)** zu lesen.
 
 ### Hinweis zur rechtlichen Lage
 
